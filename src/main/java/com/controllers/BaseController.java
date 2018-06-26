@@ -10,6 +10,6 @@ public class BaseController {
 
     @GetMapping()
     public String getAllPrograms() {
-        return "ayre fik ya hmar";
+        return "ayre fik ya ayre";
     }
 }
